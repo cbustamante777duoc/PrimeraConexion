@@ -1,0 +1,14 @@
+c:\users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\bin\Debug\MiPrimeraConecion.exe.config
+c:\users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\bin\Debug\MiPrimeraConecion.exe
+c:\users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\bin\Debug\MiPrimeraConecion.pdb
+c:\users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\obj\Debug\MiPrimeraConecion.csprojResolveAssemblyReference.cache
+c:\users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\obj\Debug\MiPrimeraConecion.Form1.resources
+c:\users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\obj\Debug\MiPrimeraConecion.Properties.Resources.resources
+c:\users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\obj\Debug\MiPrimeraConecion.csproj.GenerateResource.Cache
+c:\users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\obj\Debug\MiPrimeraConecion.exe
+c:\users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\obj\Debug\MiPrimeraConecion.pdb
+C:\Users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\obj\Debug\MiPrimeraConecion.ListadoPorEspecialidad.resources
+C:\Users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\obj\Debug\MiPrimeraConecion.FrConsultaMedicamentoPorFarmaceutica.resources
+C:\Users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\obj\Debug\MiPrimeraConecion.ListaProcediemientoAlmacendo.resources
+C:\Users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\obj\Debug\MiPrimeraConecion.lstPorConsultaSql.resources
+C:\Users\cristian\documents\visual studio 2015\Projects\MiPrimeraConecion\MiPrimeraConecion\obj\Debug\MiPrimeraConecion.lstProcedimientoAlmacenadoPorfiltro.resources
